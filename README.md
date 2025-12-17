@@ -380,3 +380,16 @@ Copy-paste ready bullet points for your resume:
 - **Orchestrated Motia-powered workflow automation** for application lifecycle events including creation, status updates, and weekly summaries
 - **Built a comprehensive event-driven architecture** using Motia that demonstrates clean separation of concerns and enterprise-grade backend patterns
 - **Automated job search analytics** with Motia workflows that calculate rejection rates, response times, and resume performance metrics
+
+## 🚀 Future Improvements
+
+- Email notifications for weekly summaries and important application status changes (email will be added)
+- Integration with additional communication channels such as Slack or WhatsApp
+- AI-driven resume performance recommendations
+- Long-term job application trend analysis
+
+## 👤 Author
+
+- Swapnil Nicolson Dadel
+- Built as part of a Backend hackathon
+- Focused on event-driven workflows and backend automation
