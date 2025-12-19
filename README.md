@@ -83,6 +83,17 @@ eventEmitter.on('status_updated', async (statusUpdateData) => {
 });
 ```
 
+## ⚙️ Installing and Using Motia
+
+Motia is used in this project as the event-driven workflow engine that reacts to backend events and runs automation logic.
+
+### Install Motia
+
+From the backend directory, run:
+
+    npm install motia
+
+
 ## 🔧 Motia Workflows in Detail
 
 Motia serves as the event-driven orchestration layer that powers the AI Job Tracker's automation capabilities. By separating workflow logic from core business operations, Motia enables clean architecture and easy extensibility.
