@@ -13,6 +13,11 @@ A full-stack job application tracking system with SQLite database, Express backe
 - **Email notifications** with nodemailer integration
 - **Clean, maintainable code** with proper separation of concerns
 
+## 📸 Screenshots
+
+<img width="2000" height="1526" alt="Image" src="https://github.com/user-attachments/assets/7aff3dda-28fd-403c-9f03-fdc61e7b8d2b" />
+<img width="2000" height="1194" alt="Image" src="https://github.com/user-attachments/assets/d2f0b892-e60c-493f-a650-42e0fdf94393" />
+
 ## 📐 Architecture Diagram
 
 ```
