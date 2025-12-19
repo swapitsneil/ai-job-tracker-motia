@@ -159,10 +159,6 @@ The application uses three primary Motia events:
 - Shows understanding of workflow automation patterns
 - Provides practical experience with orchestration layers
 
-**Sponsor Alignment**
-- Highlights Motia's capabilities in a production-ready application
-- Shows how Motia enables clean, maintainable backend code
-- Demonstrates the value of workflow automation in real applications
 
 ## 🏃 How to Run the Application
 
